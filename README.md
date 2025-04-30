@@ -16,32 +16,30 @@ Welcome to **Eye Controlled Mouse** — a Python-based hands-free interface that
 
 ## 🛠️ Tech Stack
 
-| 💡 Technology | 🔧 Purpose                          |
-|--------------|-------------------------------------|
-| Python       | Programming language                |
-| OpenCV       | Webcam access & image processing    |
-| MediaPipe    | Eye & facial landmark detection     |
-| PyAutoGUI    | Mouse automation                    |
+![image](https://github.com/user-attachments/assets/6c1157d0-c20f-4a63-8250-5057aecc287f)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Setup Instructions
 
-### 🔄 Clone the Repo
+### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/NikitaKarmakarP/eye_controlled_mouse.git
-cd eye_controlled_mouse
+**git clone https://github.com/NikitaKarmakarP/eye_controlled_mouse.git
+cd eye_controlled_mouse**
 
-### 📦 Install Dependencies
+### 2️⃣ Install Dependencies
 
-```bash
-pip install opencv-python mediapipe pyautogui
+**Make sure you have Python installed, then run:**
 
-### ▶️ Run the App
+**pip install opencv-python mediapipe pyautogui**
 
-```bash
-python main.py
+### 3️⃣ Run the Application
+
+**Start the eye-controlled mouse:**
+
+**python main.py**
+
+---
 
 ## 🧪 How It Works
 - Captures live video from your webcam 🎥
@@ -49,17 +47,25 @@ python main.py
 - Tracks eye coordinates to move cursor 🖱️
 - Detects blink duration for left/right clicks 👨‍💻
 
+---
+
 ## 📁 File Structure
 
 ![image](https://github.com/user-attachments/assets/3a68fe8e-9a03-48f6-b03a-4f1595fd4e7b)
+
+---
 
 ## 👤 Author
 - 🧑‍💻 Nikita Karmakar
 - 🌐 GitHub: @NikitaKarmakarP
 
+---
+
 ## 🙌 Contributing
 👋 Contributions are welcome!
 Feel free to open issues or submit PRs to improve performance, UX, or features.
+
+---
 
 ## ❤️ Support & Feedback
 If you like this project:
@@ -69,4 +75,6 @@ If you like this project:
 - **🛠️ Contribute with ideas or fixes**
 - **💬 Share it with others who’d benefit from hands-free control!**
 
-"Technology should empower, not restrict. This is a small step toward hands-free computing." 🚀
+---
+
+**"Technology should empower, not restrict. This is a small step toward hands-free computing." 🚀**

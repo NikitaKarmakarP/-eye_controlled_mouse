@@ -24,8 +24,9 @@ Welcome to **Eye Controlled Mouse** — a Python-based hands-free interface that
 
 ### 1️⃣ Clone the Repository
 
-**git clone https://github.com/NikitaKarmakarP/eye_controlled_mouse.git
-cd eye_controlled_mouse**
+**git clone https://github.com/NikitaKarmakarP/eye_controlled_mouse.git**
+
+**cd eye_controlled_mouse**
 
 ### 2️⃣ Install Dependencies
 
